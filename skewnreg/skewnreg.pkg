@@ -1,5 +1,23 @@
-d 'DEA': Data envelopment analysis
+d 'skewnreg': Skew-normal regression Use skewnreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f lskew.mlib
+f mskewn_p.ado
+f mskewnreg.ado
+f mskewnreg.sthlp
+f mskewnreg_postestimation.sthlp
+f mskewt_p.ado
+f mskewtreg.ado
+f mskewtreg.sthlp
+f mskewtreg_postestimation.sthlp
+f skew_mahalanobis.ado
+f skew_postestimation.sthlp
+f skewn_p.ado
+f skewnreg.ado
+f skewnreg.sthlp
+f skewnreg_postestimation.sthlp
+f skewrplot.ado
+f skewrplot.sthlp
+f skewt_p.ado
+f skewtreg.ado
+f skewtreg.sthlp
+f skewtreg_postestimation.sthlp
