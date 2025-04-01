@@ -1,6 +1,8 @@
 # skewnreg
 Skew-normal regression Use skewnreg With STATA 18
 
+https://www.youtube.com/watch?v=4NMDgSzyonM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
